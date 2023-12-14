@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Rohit Patil from Mumbai<br><br>- 🔭 I’m currently pursuing MCA. <br>- 📚 I'm currently learning Django and laravel</p>
+<p align="left">I'm Rohit Patil from Mumbai<br><br>- 🔭 I’m currently pursuing MCA. <br>- 📚 I'm currently learning ReactJs And MongoDb</p>
 
 ###
 
