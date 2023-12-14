@@ -52,7 +52,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Projects :</h3>
+
+<h1>Expense Tracker</h1>
+<h1>CodePen Clone</h1>
 
 ###
 
