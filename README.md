@@ -52,10 +52,12 @@
 
 ###
 
-<h3 align="left">🔥   My Projects :</h3>
+<h1 align="left">🔥   My Projects :</h1>
 
-<h1>Expense Tracker</h1>
-<h1>CodePen Clone</h1>
+<h3>Expense Tracker</h3>
+Link- https://rohitnarayanpatil.github.io/react-expense-tracker/
+<h3>CodePen Clone</h3>
+
 
 ###
 
